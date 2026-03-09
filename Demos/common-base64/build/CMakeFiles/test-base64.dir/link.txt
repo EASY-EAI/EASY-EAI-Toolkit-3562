@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ --sysroot=/mnt CMakeFiles/test-base64.dir/test-base64.c.o CMakeFiles/test-base64.dir/opt/EASY-EAI-Toolkit/EASY-EAI-Toolkit-3562/easyeai-api/common/base64/base64.cpp.o -o test-base64  -lstdc++ 

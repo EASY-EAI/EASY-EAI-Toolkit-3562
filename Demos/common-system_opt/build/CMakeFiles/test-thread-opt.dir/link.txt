@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ --sysroot=/mnt CMakeFiles/test-thread-opt.dir/test-thread-opt.c.o CMakeFiles/test-thread-opt.dir/opt/EASY-EAI-Toolkit/EASY-EAI-Toolkit-3562/easyeai-api/common/system_opt/system_opt.cpp.o -o test-thread-opt  -lpthread -lstdc++ 

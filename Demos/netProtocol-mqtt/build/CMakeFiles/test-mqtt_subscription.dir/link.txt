@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-gcc --sysroot=/mnt CMakeFiles/test-mqtt_subscription.dir/test-mqtt_subscription.c.o -o test-mqtt_subscription  -lmosquitto -lstdc++ 

@@ -1,0 +1,4 @@
+/opt/EASY-EAI-Toolkit/EASY-EAI-Toolkit-3562/Demos/netProtocol-mqtt/build/CMakeFiles/test-mqtt_publish.dir
+/opt/EASY-EAI-Toolkit/EASY-EAI-Toolkit-3562/Demos/netProtocol-mqtt/build/CMakeFiles/test-mqtt_subscription.dir
+/opt/EASY-EAI-Toolkit/EASY-EAI-Toolkit-3562/Demos/netProtocol-mqtt/build/CMakeFiles/edit_cache.dir
+/opt/EASY-EAI-Toolkit/EASY-EAI-Toolkit-3562/Demos/netProtocol-mqtt/build/CMakeFiles/rebuild_cache.dir

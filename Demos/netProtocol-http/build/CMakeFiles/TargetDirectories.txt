@@ -1,0 +1,4 @@
+/opt/EASY-EAI-Toolkit/EASY-EAI-Toolkit-3562/Demos/netProtocol-http/build/CMakeFiles/test-http_client.dir
+/opt/EASY-EAI-Toolkit/EASY-EAI-Toolkit-3562/Demos/netProtocol-http/build/CMakeFiles/test-http_server.dir
+/opt/EASY-EAI-Toolkit/EASY-EAI-Toolkit-3562/Demos/netProtocol-http/build/CMakeFiles/edit_cache.dir
+/opt/EASY-EAI-Toolkit/EASY-EAI-Toolkit-3562/Demos/netProtocol-http/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-gcc --sysroot=/mnt CMakeFiles/test-iniWrapper.dir/test-iniWrapper.c.o CMakeFiles/test-iniWrapper.dir/opt/EASY-EAI-Toolkit/EASY-EAI-Toolkit-3562/easyeai-api/common/ini_wrapper/ini_wrapper.c.o -o test-iniWrapper  -lini -lstdc++ 

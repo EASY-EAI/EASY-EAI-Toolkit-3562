@@ -1,0 +1,9 @@
+Source: eai-products(master) commit(760d3380d02af6ec3ee352c644051bc77233924d)
+Package: eai-anlyzer
+Version: 0.0.001
+Architecture: arm64
+Section: utils
+Priority: extra
+Depends: 
+Maintainer: zhongjiehao zhongjiehao@easyeai.com
+Description: This is an APP for AI inference platform 

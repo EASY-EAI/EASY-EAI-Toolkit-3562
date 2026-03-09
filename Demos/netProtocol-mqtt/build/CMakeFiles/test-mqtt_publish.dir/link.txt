@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-gcc --sysroot=/mnt CMakeFiles/test-mqtt_publish.dir/test-mqtt_publish.c.o -o test-mqtt_publish  -lmosquitto -lstdc++ 
