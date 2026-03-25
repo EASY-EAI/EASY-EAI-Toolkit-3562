@@ -8,10 +8,10 @@ cd $SHELL_FOLDER
 release_path="Release"
 algorithm_list=`ls -d algorithm-*`
 common_list=`ls -d common-*`
-media_list=`ls -d media-*`
+#media_list=`ls -d media-*`
 netProtocol_list=`ls -d netProtocol-*`
 
-alldemo="$algorithm_list $common_list $netProtocol_list $media_list"
+alldemo="$algorithm_list $common_list $netProtocol_list"
 
 usage()
 {
