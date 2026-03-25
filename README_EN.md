@@ -23,6 +23,39 @@ How to use：
 
 important update log:
 ---
+> 2026-03-25 :
+> * Release EASY-EAI-Toolkit-3562-0.0.1
+> * update easyeai-api
+>     * algorithm_api
+>         * [new] car_detect
+>         * [new] face_detect
+>         * [new] face_landmark98
+>         * [new] face_recognition
+>         * [new] fire_detect
+>         * [new] geometry
+>         * [new] gestures
+>         * [new] helmet_detect
+>         * [new] lpr
+>         * [new] ocr
+>         * [new] person_detect
+>         * [new] person_pose
+>         * [new] qrdecode
+>         * [new] speech_recognition
+> * update Demo
+>     * [new] algorithm-car
+>     * [new] algorithm-face_detect
+>     * [new] algorithm-face_landmark98
+>     * [new] algorithm-face_recognition
+>     * [new] algorithm-fire
+>     * [new] algorithm-gestures
+>     * [new] algorithm-helmet
+>     * [new] algorithm-lpr
+>     * [new] algorithm-ocr
+>     * [new] algorithm-person
+>     * [new] algorithm-person_pose
+>     * [new] algorithm-qrdecode
+>     * [new] algorithm-speech_recognition
+>
 > 2026-03-09 :
 > * Release EASY-EAI-Toolkit-3562-0.0.0
 > * update easyeai-api
@@ -34,6 +67,7 @@ important update log:
 >         * [new] system_opt
 >     * netProtocol_api
 >         * [new] http/https
+>         * [new] mqtt
 >         * [new] modbus
 > * update Demo
 >     * [new] common-base64
